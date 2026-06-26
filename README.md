@@ -17,8 +17,3 @@ For stance-classification examples, the assistant message is the gold label:
 
 These are stance labels, not sentiment labels.
 
-## Review Note
-
-This is an anonymous review package. Author names, affiliations, public repository URL, and DOI are withheld until acceptance. Raw platform payloads, account identifiers, profile data, and direct platform metadata are not included.
-
-A persistent DOI and full public repository metadata will be added after acceptance.
